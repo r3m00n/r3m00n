@@ -3,4 +3,4 @@
 - 🌍 I'm from Hamburg, Germany
 - 🔭 I’m working on a MERN project
 - 🌱 I’m currently learning React Native
-- ❤ I'm in love with my girlfriend ~~& motorcycle~~
+- ❤ I'm in love with my ~~motorcycle~~ girlfriend 
